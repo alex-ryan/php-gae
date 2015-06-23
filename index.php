@@ -6,9 +6,9 @@
     </head>
     <body>
         <?php
-		echo 'Hello, World!';
-		echo '<br/>';
-		phpinfo();
+	echo 'Hello, World!';
+	echo '<br/>';
+	phpinfo();
         ?>
     </body>
 </html>
